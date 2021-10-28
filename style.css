@@ -1,0 +1,10 @@
+.col-sm-12 p {
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+.col-sm-12 {
+    margin-top: 5vh;
+    background-color: gray;
+}
